@@ -1,0 +1,11 @@
+{
+    "name": "johann/app",
+    "autoload": {
+        "psr-4": {
+            "Johann\\App\\": "src/"
+        }
+    },
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
